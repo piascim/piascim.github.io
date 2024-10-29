@@ -36,9 +36,17 @@ main {
   }
 
 section img{
-    width: 70%;
+    width: 60%;
     height: auto;
     margin-bottom: 10px;
+    text-align: center;
+}
+
+.imgs{
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
 }
 section {
   
