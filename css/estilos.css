@@ -2,6 +2,8 @@ header{
     padding: 3% 2%;
     color: #fff;
     background-color: #03492b;
+    text-indent: 6%;
+
   }
 
   body {
@@ -18,6 +20,8 @@ main {
     margin: 0 auto;
     padding: 0;
     max-width: 85%;
+    text-indent: 6%;
+
   }
   
 
@@ -37,17 +41,17 @@ main {
   }
 
 section img{
+    display: block;
     width: 70%;
     height: auto;
-    margin-bottom: 10px;
-    text-align: center;
+    margin: auto;
+    margin-bottom: 10px ;
 }
 
 .imgs1{
-  width: 100%;
+  width: 95%;
   height: auto;
-    margin-bottom: 10px;
-    text-align: center;
+  margin-bottom: 10px;
 }
 
 .seccion1{
