@@ -11,6 +11,7 @@ header{
 p {
   font-size: 18px; 
   line-height: 1.6; 
+  text-indent: 6%;
 }
   
 main {
@@ -36,17 +37,22 @@ main {
   }
 
 section img{
-    width: 60%;
+    width: 70%;
     height: auto;
     margin-bottom: 10px;
     text-align: center;
 }
 
-.imgs{
-  display: block;
-  margin: auto;
-  max-width: 100%;
+.imgs1{
+  width: 100%;
   height: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.seccion1{
+  column-count: 2;
+  column-gap: 10%;
 }
 section {
   
@@ -58,5 +64,7 @@ section {
     color: #fff;
     background-color: #03492b;
   }
+
+  
 
 
